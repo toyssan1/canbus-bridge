@@ -70,7 +70,7 @@ Under **Tools**, set:
 
 ### 4. Open, Compile & Upload
 
-1. Open `12keypad-to-can.ino` in Arduino IDE.
+1. Open `can-bridge.ino` in Arduino IDE.
 2. Click **Verify** (checkmark) to compile.
 3. Click **Upload** (arrow) to flash.
 4. Open **Tools** → **Serial Monitor**, set baud to **115200**, and you should see `ESP32-S3 Dual CAN Bridge` followed by CAN frame logging.
